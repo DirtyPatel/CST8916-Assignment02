@@ -134,7 +134,8 @@ Google Cloud. (2024). Cloud Pub/Sub Documentation. https://cloud.google.com/pubs
 
 Google Cloud. (2024). Cloud Dataflow Documentation. https://cloud.google.com/dataflow
 
-### 7 AI Usage Disclosure
+### 7. AI Usage Disclosure
 
-I used generative AI (ChatGPT, Claude) to help brainstorm ideas, compare cloud services, and review the clarity of my writing. 
-It was also used to help me organize the structure of the report.
+I used generative AI (ChatGPT, Claude) to help brainstorm and find the use cases, help find documentation to compare cloud services, and review the clarity of my writing and see if i have grammatical errors or if the structure of the report is accurate. 
+
+However, all the creative ideas, research and analysis is my own work. 
